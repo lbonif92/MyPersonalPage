@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #40514E;
+}
+
+H1{
+    margin: 0 auto;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+    line-height: 2;
+}
+
+.accentuation{
+    text-decoration: underline;
+}
+
+H2{
+    font-size: 1.80rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: normal;
+    margin: 16px auto;
+}
+
+li{
+    display:inline;
+    margin: 20px;
+}
+
+H3{
+    color: #11999E;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 130px;
+    background-color: #EAF6F6;
+    
+}
+
+.description{
+    width: 45%;
+    margin: 32px auto;
+
+}
+
+hr{
+    border: dotted #EAF6F6;
+    border-bottom: none;
+    width: 6%;
+    border-width: 1.2em;
+    margin: 50px auto;
+}
+
+.profilePicture{
+    width: 20%;
+    margin-top: 30px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 75px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 275px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.icon1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.icon2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 20px auto;
+  }
+  
+.btn:hover {
+    background: #2dcccf;
+    text-decoration: none;
+  }
+
+.bottom-container{
+    margin-top:50px;
+    padding-top: 25px;
+    background-color: #66BFBF;
+  }
+
+a{
+    padding: 10px;
+}
+
+.footer-link{
+    color: #11999E;
+  }
+
+.surname{
+    color: #EAF6F6;
+}
